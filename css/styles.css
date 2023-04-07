@@ -10833,6 +10833,11 @@ body {
   height: 100%;
 }
 
+#about{
+  padding-top: 40px;
+  
+}
+
 .page-section {
   padding: 8rem 0;
 }
